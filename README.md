@@ -206,18 +206,21 @@ These issues were intentionally added to create a realistic SQL cleaning workflo
 insurance-pricing-ab-test/
 │
 ├── data/
-│   ├── insurance_raw.csv
-│   └── insurance_clean.csv
+│   └── insurance_pricing_ab_test_raw.csv
 │
 ├── sql/
-│   ├── cleaning.sql
-│   └── analysis.sql
+│   ├── insurance_pricing_ab_test_cleaning
+│   └── insurance_pricing_ab_test_analysis
 │
 ├── python/
-│   ├── data_generation.py
-│   └── statistical_testing.py
+│   ├── ABtesting_datageneration.py
+│   └── chi-square-test.py
 │
 ├── powerbi/
 │   └── insurance_ab_test_dashboard.pbix
+│
+├── images/
+│   ├── executive-summary.png
+│   └── analyst-dashboard.png
 │
 └── README.md
