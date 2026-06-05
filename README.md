@@ -4,6 +4,10 @@
 
 This project simulates a pricing A/B test for an insurance company to evaluate how pricing impacts customer conversion and revenue performance.
 
+### Executive Dashboard Preview
+![Executive Dashboard](images/executive-summary.png)
+
+
 Two pricing strategies were tested:
 
 - **A_basic** → lower-priced insurance plan
