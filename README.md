@@ -151,6 +151,14 @@ A segmented pricing strategy may provide the strongest balance between growth an
 
 The Power BI dashboard was designed with two pages.
 
+## Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard](images/executive-summary.png)
+
+### Analyst Dashboard
+![Analyst Dashboard](images/analyst-dashboard.png)
+
 ## Executive Dashboard
 
 Business-focused overview including:
